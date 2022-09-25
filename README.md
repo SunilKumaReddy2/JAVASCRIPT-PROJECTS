@@ -1,4 +1,4 @@
-# JAVASCRIPT-PROJECTS
+#                                                                          JAVASCRIPT-PROJECTS
 
  <h1>Real-time Weather app</h1>
 
